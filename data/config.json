@@ -1,0 +1,16 @@
+{
+  "schedule": "Ogni mercoledì alle 14:47 (ora italiana)",
+  "language": "it",
+  "country": "IT",
+  "niche": "Interazioni, voiceline e doppiatori italiani di Overwatch",
+  "maxHashtags": 5,
+  "sources": {
+    "web": {
+      "enabled": true
+    },
+    "instagramDashboard": {
+      "enabled": false,
+      "note": "Legge la sezione Reels Trends della Dashboard professionale tramite Claude in Chrome. Richiede il computer acceso con Chrome aperto e l'estensione attiva il mercoledì all'ora del report."
+    }
+  }
+}
