@@ -10,3 +10,7 @@
 .cxx
 *.jks
 *.keystore
+.kotlin/
+*.apk
+*.aab
+Claude outputs/
