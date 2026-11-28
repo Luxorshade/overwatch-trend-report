@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-11-25T18:45:00+01:00",
+  "updatedAt": "2026-11-28T15:00:00+01:00",
   "reports": [
+    {
+      "id": "2026-11-28",
+      "week": "Settimana 48 · 28 nov 2026",
+      "summary": "Settimana di attesa prima della Stagione 6 (8 dicembre): il reveal completo di Hudson arriva durante le OWCS World Finals (2-6 dicembre), mentre gli audio natalizi e i recap di fine anno dominano i Reels.",
+      "file": "reports/2026-11-28.json"
+    },
     {
       "id": "2026-11-25",
       "week": "Settimana 48 · 25 nov 2026 (PROVA)",
